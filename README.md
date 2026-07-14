@@ -47,11 +47,6 @@
 ## Quick Navigation
 
 - **[Getting Started Guide](./guides/01-understanding-psychosis.md)** - New to this? Start here
-- **[How to React & Respond](./guides/02-how-to-respond.md)** - Practical do's and don'ts
-- **[Coping Strategies](./guides/03-coping-for-caregivers.md)** - Managing your stress
-- **[FAQ](./faq/common-questions.md)** - Answers to common concerns
-- **[Emergency Guide](./guides/04-crisis-situations.md)** - What to do in emergencies
-- **[Glossary](./glossary/terms.md)** - Understanding the terminology
 
 ---
 
@@ -84,24 +79,7 @@ If you or your loved one is in immediate danger:
 
 ```
 📂 guides/
-   ├── 01-understanding-psychosis.md
-   ├── 02-how-to-respond.md
-   ├── 03-coping-for-caregivers.md
-   └── 04-crisis-situations.md
-
-📂 faq/
-   └── common-questions.md
-
-📂 glossary/
-   └── terms.md
-
-📂 digital-assets/
-   ├── printables/
-   ├── guides/
-   └── tools/
-
-📂 bundles/
-   └── available-offerings.md
+   └── 01-understanding-psychosis.md
 ```
 
 ---
