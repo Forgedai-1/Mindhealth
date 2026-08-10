@@ -73,10 +73,10 @@
 
 If you or your loved one is in immediate danger:
 
-- **🚑 Call 911** (US) or your local emergency number
-- **☎️ National Suicide Prevention Lifeline: 988**
-- **💬 Crisis Text Line: Text HOME to 741741**
-- **🆘 NAMI Helpline: 1-800-950-NAMI (6264)**
+- **🚑 Call [911](tel:911)** (US) or your local emergency number
+- **☎️ National Suicide Prevention Lifeline: [988](tel:988)**
+- **💬 Crisis Text Line: [Text HOME to 741741](sms:741741?body=HOME)**
+- **🆘 NAMI Helpline: [1-800-950-NAMI (6264)](tel:18009506264)**
 
 ---
 
