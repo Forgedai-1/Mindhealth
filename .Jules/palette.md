@@ -1,0 +1,3 @@
+## 2026-08-12 - [Make emergency contacts actionable in markdown]
+**Learning:** [In markdown-based guides, especially those related to crisis response, plain text phone numbers create unnecessary friction. Users in crisis need immediate access without needing to copy-paste.]
+**Action:** [Always convert phone numbers and SMS numbers to actionable `tel:` and `sms:` links to improve mobile accessibility and UX.]
