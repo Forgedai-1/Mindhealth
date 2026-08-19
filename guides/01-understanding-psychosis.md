@@ -164,7 +164,6 @@ Living with someone experiencing psychosis means:
 ## Next Steps
 
 - Read: **[How to React & Respond](./02-how-to-respond.md)** - Practical do's and don'ts
-- Read: **[Coping Strategies](./03-coping-for-caregivers.md)** - Managing your stress
 - Check: **[FAQ](../faq/common-questions.md)** - Answers to specific questions
 - Save: **[Emergency Resources](../README.md)** - Crisis contact information
 
